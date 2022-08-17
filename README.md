@@ -1,4 +1,4 @@
-# Project Proposal
+# # Spotify ETL Project Project Proposal
 
 The data used in this project was migrated to a production data base, within one week.
 
@@ -61,4 +61,4 @@ The datasets was identified and ETL was performed on the data. Make sure to plan
   * Appended the DataFrames to tables using the index set earlier.
 
 * Confirmed a successful **Load** by querying database.
-# Spotify_ETL_Project
+
